@@ -1,0 +1,126 @@
+ {
+    "Science": {
+        "Easy": [
+            {"question": "What is H2O commonly known as?", "options": ["Oxygen", "Hydrogen", "Water", "Salt"], "answer": "Water"},
+            {"question": "Which planet is known as the Red Planet?", "options": ["Earth", "Mars", "Jupiter", "Venus"], "answer": "Mars"},
+            {"question": "What gas do plants absorb from the atmosphere?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Helium"], "answer": "Carbon Dioxide"},
+            {"question": "Which animal is known as the 'King of the Jungle'?", "options": ["Lion", "Elephant", "Tiger", "Gorilla"], "answer": "Lion"},
+            {"question": "How many legs do spiders have?", "options": ["6", "8", "10", "12"], "answer": "8"},
+            {"question": "What is the boiling point of water?", "options": ["0°C", "50°C", "100°C", "200°C"], "answer": "100°C"},
+            {"question": "What organ pumps blood in the human body?", "options": ["Brain", "Liver", "Heart", "Kidneys"], "answer": "Heart"},
+            {"question": "Which gas is most abundant in the Earth's atmosphere?", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "answer": "Nitrogen"},
+            {"question": "What is the chemical symbol for Gold?", "options": ["Au", "Ag", "Cu", "Fe"], "answer": "Au"},
+            {"question": "Which part of the plant conducts photosynthesis?", "options": ["Roots", "Stem", "Leaves", "Flowers"], "answer": "Leaves"}
+        ],
+        "Medium": [
+            {"question": "What is the atomic number of Carbon?", "options": ["6", "8", "12", "14"], "answer": "6"},
+            {"question": "What is the most common type of rock on Earth?", "options": ["Sedimentary", "Metamorphic", "Igneous", "Fossil"], "answer": "Igneous"},
+            {"question": "Which planet has the most moons?", "options": ["Earth", "Mars", "Saturn", "Jupiter"], "answer": "Jupiter"},
+            {"question": "What is the human body's largest organ?", "options": ["Heart", "Liver", "Skin", "Lungs"], "answer": "Skin"},
+            {"question": "How many chromosomes are in a human cell?", "options": ["23", "46", "32", "64"], "answer": "46"},
+            {"question": "Which element is necessary for the formation of bones and teeth?", "options": ["Iron", "Calcium", "Sodium", "Potassium"], "answer": "Calcium"},
+            {"question": "What force keeps the planets in orbit around the Sun?", "options": ["Magnetism", "Gravity", "Friction", "Inertia"], "answer": "Gravity"},
+            {"question": "Which planet is closest to the Sun?", "options": ["Earth", "Venus", "Mercury", "Mars"], "answer": "Mercury"},
+            {"question": "What is the rarest blood type?", "options": ["O+", "AB-", "A-", "B+"], "answer": "AB-"},
+            {"question": "What is the powerhouse of the cell?", "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"], "answer": "Mitochondria"}
+        ],
+        "Hard": [
+            {"question": "What is the speed of light?", "options": ["299,792 km/s", "150,000 km/s", "1,000 km/s", "500,000 km/s"], "answer": "299,792 km/s"},
+            {"question": "What is the chemical formula for table salt?", "options": ["NaCl", "H2SO4", "CO2", "HCl"], "answer": "NaCl"},
+            {"question": "What is the scientific term for the study of fungi?", "options": ["Botany", "Mycology", "Zoology", "Ecology"], "answer": "Mycology"},
+            {"question": "What is the hardest natural substance on Earth?", "options": ["Gold", "Iron", "Diamond", "Quartz"], "answer": "Diamond"},
+            {"question": "What was the first element to be artificially created?", "options": ["Plutonium", "Helium", "Radon", "Technetium"], "answer": "Technetium"},
+            {"question": "Which part of the brain controls movement?", "options": ["Cerebellum", "Medulla", "Cerebrum", "Thalamus"], "answer": "Cerebellum"},
+            {"question": "What is the pH level of pure water?", "options": ["5", "6", "7", "8"], "answer": "7"},
+            {"question": "Who developed the theory of relativity?", "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Marie Curie"], "answer": "Albert Einstein"},
+            {"question": "What is the most abundant element in the universe?", "options": ["Helium", "Hydrogen", "Oxygen", "Carbon"], "answer": "Hydrogen"},
+            {"question": "What is the second law of thermodynamics about?", "options": ["Entropy", "Energy conservation", "Newton's laws", "Quantum states"], "answer": "Entropy"}
+        ]
+    },
+    "History": {
+        "Easy": [
+            {"question": "Who was the first President of the USA?", "options": ["George Washington", "Abraham Lincoln", "John Adams", "Thomas Jefferson"], "answer": "George Washington"},
+            {"question": "In which country did the Industrial Revolution begin?", "options": ["France", "Germany", "USA", "United Kingdom"], "answer": "United Kingdom"},
+            {"question": "Which country built the Great Wall?", "options": ["India", "China", "Japan", "Russia"], "answer": "China"},
+            {"question": "Who was the first man to step on the Moon?", "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "John Glenn"], "answer": "Neil Armstrong"},
+            {"question": "Who was known as the 'Iron Lady'?", "options": ["Margaret Thatcher", "Indira Gandhi", "Angela Merkel", "Golda Meir"], "answer": "Margaret Thatcher"},
+            {"question": "Which ancient civilization built the pyramids?", "options": ["Romans", "Greeks", "Egyptians", "Mayans"], "answer": "Egyptians"},
+            {"question": "Who was the first Emperor of Rome?", "options": ["Julius Caesar", "Augustus", "Nero", "Caligula"], "answer": "Augustus"},
+            {"question": "Which famous ship sank in 1912?", "options": ["Titanic", "Lusitania", "Britannic", "Endeavour"], "answer": "Titanic"},
+            {"question": "What year did the Berlin Wall fall?", "options": ["1985", "1989", "1990", "1991"], "answer": "1989"},
+            {"question": "Who was the first woman to win a Nobel Prize?", "options": ["Marie Curie", "Florence Nightingale", "Mother Teresa", "Jane Addams"], "answer": "Marie Curie"}
+        ],
+        "Medium": [
+            {"question": "In which year did World War II end?", "options": ["1940", "1942", "1945", "1950"], "answer": "1945"},
+            {"question": "Which country gifted the Statue of Liberty to the USA?", "options": ["Germany", "France", "United Kingdom", "Italy"], "answer": "France"},
+            {"question": "Who was the last Emperor of China?", "options": ["Sun Yat-Sen", "Puyi", "Mao Zedong", "Kangxi"], "answer": "Puyi"},
+            {"question": "When did the American Civil War start?", "options": ["1812", "1845", "1861", "1898"], "answer": "1861"},
+            {"question": "Who was the Prime Minister of the UK during World War II?", "options": ["Winston Churchill", "Neville Chamberlain", "Clement Attlee", "Harold Macmillan"], "answer": "Winston Churchill"},
+            {"question": "What ancient civilization built Machu Picchu?", "options": ["Aztecs", "Mayans", "Incas", "Romans"], "answer": "Incas"},
+            {"question": "Which treaty ended World War I?", "options": ["Treaty of Paris", "Treaty of Versailles", "Treaty of Ghent", "Treaty of Tordesillas"], "answer": "Treaty of Versailles"},
+            {"question": "Who was the first female pharaoh of Egypt?", "options": ["Cleopatra", "Nefertiti", "Hatshepsut", "Sobekneferu"], "answer": "Hatshepsut"},
+            {"question": "What was the main cause of the Cold War?", "options": ["Religious conflicts", "Nuclear arms race", "Colonization", "Space exploration"], "answer": "Nuclear arms race"},
+            {"question": "Who discovered America?", "options": ["Christopher Columbus", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"], "answer": "Christopher Columbus"},
+            {"question": "Which battle marked the end of Napoleon's reign?", "options": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"], "answer": "Battle of Waterloo"},
+            {"question": "What was the name of the first written legal code?", "options": ["Magna Carta", "Code of Hammurabi", "Twelve Tables", "Napoleonic Code"], "answer": "Code of Hammurabi"},
+            {"question": "Who was the first ruler of the Mongol Empire?", "options": ["Kublai Khan", "Genghis Khan", "Timur", "Attila the Hun"], "answer": "Genghis Khan"},
+            {"question": "What year did the French Revolution begin?", "options": ["1765", "1789", "1815", "1848"], "answer": "1789"},
+            {"question": "Who led the Bolshevik Revolution?", "options": ["Joseph Stalin", "Leon Trotsky", "Vladimir Lenin", "Mikhail Gorbachev"], "answer": "Vladimir Lenin"},
+            {"question": "Which war was fought between the North and South regions of the United States?", "options": ["War of 1812", "Revolutionary War", "Civil War", "Spanish-American War"], "answer": "Civil War"},
+            {"question": "Which ancient civilization invented democracy?", "options": ["Romans", "Greeks", "Egyptians", "Persians"], "answer": "Greeks"},
+            {"question": "Which U.S. President issued the Emancipation Proclamation?", "options": ["George Washington", "Theodore Roosevelt", "Abraham Lincoln", "John F. Kennedy"], "answer": "Abraham Lincoln"},
+            {"question": "What was the name of the ship that carried the Pilgrims to America?", "options": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"], "answer": "Mayflower"}
+        ],
+        "Hard":[
+            {"question": "Who discovered America?", "options": ["Christopher Columbus", "Vasco da Gama", "Marco Polo", "Ferdinand Magellan"], "answer": "Christopher Columbus"},
+            {"question": "Which battle marked the end of Napoleon's reign?", "options": ["Battle of Trafalgar", "Battle of Austerlitz", "Battle of Waterloo", "Battle of Leipzig"], "answer": "Battle of Waterloo"},
+            {"question": "What was the name of the first written legal code?", "options": ["Magna Carta", "Code of Hammurabi", "Twelve Tables", "Napoleonic Code"], "answer": "Code of Hammurabi"},
+            {"question": "Who was the first ruler of the Mongol Empire?", "options": ["Kublai Khan", "Genghis Khan", "Timur", "Attila the Hun"], "answer": "Genghis Khan"},
+            {"question": "What year did the French Revolution begin?", "options": ["1765", "1789", "1815", "1848"], "answer": "1789"},
+            {"question": "Who led the Bolshevik Revolution?", "options": ["Joseph Stalin", "Leon Trotsky", "Vladimir Lenin", "Mikhail Gorbachev"], "answer": "Vladimir Lenin"},
+            {"question": "Which war was fought between the North and South regions of the United States?", "options": ["War of 1812", "Revolutionary War", "Civil War", "Spanish-American War"], "answer": "Civil War"},
+            {"question": "Which ancient civilization invented democracy?", "options": ["Romans", "Greeks", "Egyptians", "Persians"], "answer": "Greeks"},
+            {"question": "Which U.S. President issued the Emancipation Proclamation?", "options": ["George Washington", "Theodore Roosevelt", "Abraham Lincoln", "John F. Kennedy"], "answer": "Abraham Lincoln"},
+            {"question": "What was the name of the ship that carried the Pilgrims to America?", "options": ["Santa Maria", "Mayflower", "Endeavour", "Beagle"], "answer": "Mayflower"}
+        ]
+    },
+    "Technology": {
+        "Easy": [
+            {"question": "What does CPU stand for?", "options": ["Central Processing Unit", "Computer Personal Unit", "Central Personal Unit", "Central Performance Unit"], "answer": "Central Processing Unit"},
+            {"question": "Which company created the iPhone?", "options": ["Samsung", "Apple", "Google", "Microsoft"], "answer": "Apple"},
+            {"question": "What does USB stand for?", "options": ["Universal Serial Bus", "United System Base", "Unique Software Bridge", "Universal Support Bit"], "answer": "Universal Serial Bus"},
+            {"question": "Which social media platform was founded by Mark Zuckerberg?", "options": ["Twitter", "Facebook", "Instagram", "Snapchat"], "answer": "Facebook"},
+            {"question": "Which search engine is owned by Google?", "options": ["Bing", "Yahoo", "Google Search", "DuckDuckGo"], "answer": "Google Search"},
+            {"question": "What does 'AI' stand for?", "options": ["Artificial Information", "Advanced Internet", "Artificial Intelligence", "Automated Innovation"], "answer": "Artificial Intelligence"},
+            {"question": "Which gaming console is developed by Sony?", "options": ["Xbox", "PlayStation", "Nintendo Switch", "Sega Genesis"], "answer": "PlayStation"},
+            {"question": "Which language is primarily used for web development?", "options": ["Python", "Java", "C++", "JavaScript"], "answer": "JavaScript"},
+            {"question": "What company developed Windows OS?", "options": ["Apple", "IBM", "Microsoft", "Google"], "answer": "Microsoft"},
+            {"question": "What is the full form of HTTP?", "options": ["Hyper Text Transfer Protocol", "High Tech Transfer Process", "Hyperlink Transport Tool Protocol", "Hosting Technology Transfer Protocol"], "answer": "Hyper Text Transfer Protocol"}
+        ],
+        "Medium": [
+            {"question": "Who founded Microsoft?", "options": ["Steve Jobs", "Bill Gates", "Elon Musk", "Mark Zuckerberg"], "answer": "Bill Gates"},
+            {"question": "Which programming language was developed first?", "options": ["Python", "C", "COBOL", "Fortran"], "answer": "Fortran"},
+            {"question": "What is the primary function of a GPU?", "options": ["Data storage", "Graphics processing", "Networking", "Sound processing"], "answer": "Graphics processing"},
+            {"question": "What does RAM stand for?", "options": ["Random Access Memory", "Readily Available Memory", "Remote Active Module", "Recent Accessed Memory"], "answer": "Random Access Memory"},
+            {"question": "Which company developed the Android operating system?", "options": ["Apple", "Google", "Microsoft", "Samsung"], "answer": "Google"},
+            {"question": "What does DNS stand for?", "options": ["Dynamic Network System", "Domain Name System", "Digital Node Server", "Data Navigation Service"], "answer": "Domain Name System"},
+            {"question": "What year was the first iPhone released?", "options": ["2005", "2007", "2008", "2010"], "answer": "2007"},
+            {"question": "Which company created the first computer mouse?", "options": ["IBM", "Microsoft", "Apple", "Xerox"], "answer": "Xerox"},
+            {"question": "What does SSD stand for in computers?", "options": ["Super Speed Drive", "Solid State Drive", "System Storage Device", "Smart Software Disk"], "answer": "Solid State Drive"},
+            {"question": "What is the purpose of an IP address?", "options": ["Identifies a device on a network", "Stores files on a computer", "Runs applications", "Measures internet speed"], "answer": "Identifies a device on a network"}
+        ],
+        "Hard": [
+            {"question": "Which programming language is known as the 'mother of all languages'?", "options": ["C", "Assembly", "Fortran", "Python"], "answer": "Fortran"},
+            {"question": "Who is known as the father of computing?", "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"], "answer": "Charles Babbage"},
+            {"question": "What does VPN stand for?", "options": ["Virtual Private Network", "Visual Processing Node", "Verified Protocol Network", "Variable Port Navigation"], "answer": "Virtual Private Network"},
+            {"question": "Which company developed the first graphical web browser?", "options": ["Microsoft", "Netscape", "Mozilla", "Apple"], "answer": "Netscape"},
+            {"question": "What is Moore’s Law?", "options": ["The speed of processors doubles every two years", "Data storage capacity decreases over time", "Computers will eventually replace human intelligence", "All computers will be quantum-based in the future"], "answer": "The speed of processors doubles every two years"},
+            {"question": "Which cryptographic algorithm is widely used for securing online transactions?", "options": ["SHA-256", "RSA", "MD5", "AES"], "answer": "RSA"},
+            {"question": "What was the first ever computer virus?", "options": ["Melissa", "ILOVEYOU", "Creeper", "Stuxnet"], "answer": "Creeper"},
+            {"question": "What is the primary purpose of blockchain technology?", "options": ["To store cryptocurrency", "To secure decentralized transactions", "To run artificial intelligence models", "To increase internet speed"], "answer": "To secure decentralized transactions"},
+            {"question": "Which operating system is based on the Linux kernel?", "options": ["Windows", "MacOS", "Android", "iOS"], "answer": "Android"},
+            {"question": "What is quantum computing?", "options": ["A type of computing that uses light particles", "A computing method based on classical physics", "A system using quantum bits (qubits) for computation", "A technology to increase internet speed"], "answer": "A system using quantum bits (qubits) for computation"}
+        ]
+    }
+}
+
